@@ -1,0 +1,83 @@
+<html>
+    <head>
+
+        <meta charset="UTF-8">
+
+        <title>W20005109 KF6018 Assignment</title>
+
+        <style>
+            body { margin: 0; }
+            canvas { width: 100%; height: 100% }
+
+            #instructions {
+                width: 100%;
+                height: 100%;
+            
+                user-select: none;
+                text-shadow: 1px 1px 1px #9E9E9E;
+                  
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0,0,0,0.5);
+
+                display: -webkit-box;
+                display: -moz-box;
+                display: box;
+
+                -webkit-box-orient: horizontal;
+                -moz-box-orient: horizontal;
+                box-orient: horizontal;
+
+                -webkit-box-pack: center;
+                -moz-box-pack: center;
+                box-pack: center;
+
+                -webkit-box-align: center;
+                -moz-box-align: center;
+                box-align: center;
+
+                color: #ffffff;
+                text-align: center;
+                font-family: Arial;
+                font-size: 14px;
+                line-height: 24px;
+
+                cursor: pointer;
+            }
+
+        </style>
+    </head>
+
+
+    <body>
+
+        <div id="instructions">
+            <div>
+                <h1>Click to begin</h1>
+                
+                Look: MOUSE<br/>
+                Zoom: SCROLL WHEEL<br/>
+                Move: W-A-S-D or ARROWS<br/>
+                Increase Height: SPACE<br/>
+                Decrease Height: LEFT SHIFT<br/>
+                Back Out: ESC
+
+            </div>
+        </div>
+
+    <script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "https://unpkg.com/three@0.148.0/build/three.module.js",
+            "three/addons/": "https://unpkg.com/three@0.148.0/examples/jsm/"
+          }
+        }
+      </script>
+
+    <script type="module" src="script.mjs"></script>
+
+    </body>
+
+</html>

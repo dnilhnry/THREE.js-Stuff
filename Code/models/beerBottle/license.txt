@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bitcoin Beer Bottle - Hodler
+* source:	https://sketchfab.com/3d-models/bitcoin-beer-bottle-hodler-0c80ac279d4f4b7bbced657c2f7b324b
+* author:	BitGem (https://sketchfab.com/bitgem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bitcoin Beer Bottle - Hodler" (https://sketchfab.com/3d-models/bitcoin-beer-bottle-hodler-0c80ac279d4f4b7bbced657c2f7b324b) by BitGem (https://sketchfab.com/bitgem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

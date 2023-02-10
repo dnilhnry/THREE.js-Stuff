@@ -1,0 +1,5 @@
+cd C:\Users\Daniel\OneDrive\Desktop\Uni\YR3\KF6018\Assignment\Code
+
+python -m http.server --directory \Users\Daniel\OneDrive\Desktop\Uni\YR3\KF6018\Assignment\Code
+
+127.0.0.1:8000/index.html
